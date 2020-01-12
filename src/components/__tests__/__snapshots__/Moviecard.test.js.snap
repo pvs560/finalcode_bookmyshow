@@ -1,0 +1,113 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieComponent sanpshot renders 1`] = `
+<div
+  className="card-deck"
+>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://m.media-amazon.com/images/M/MV5BMTMzMjMwMjcyNl5BMl5BanBnXkFtZTcwNTA1NDgzMQ@@._V1_SX300.jpg"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Avenger
+      </div>
+      <p
+        className="card-text"
+      >
+        Sam Elliott, Timothy Hutton, James Cromwell, William Hope
+      </p>
+    </div>
+    <div
+      className="card-footer"
+    >
+      <button
+        className="btn btn-primary btn-block btn-lg"
+        disabled={false}
+        id="tt0473445"
+        onClick={[Function]}
+        type="button"
+      >
+        Book Now
+      </button>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://m.media-amazon.com/images/M/MV5BMTQ3MDM1MDU2NF5BMl5BanBnXkFtZTgwMzM3OTIzNzE@._V1_SX300.jpg"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Race
+      </div>
+      <p
+        className="card-text"
+      >
+        Stephan James, Jason Sudeikis, Eli Goree, Shanice Banton
+      </p>
+    </div>
+    <div
+      className="card-footer"
+    >
+      <button
+        className="btn btn-primary btn-block btn-lg"
+        disabled={false}
+        id="tt3499096"
+        onClick={[Function]}
+        type="button"
+      >
+        Book Now
+      </button>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://m.media-amazon.com/images/M/MV5BZTkyYzc5MGEtYTBiYS00ZmYyLThlZWUtOWY3ZWE4ZDhlN2MzXkEyXkFqcGdeQXVyMjM0ODk5MDU@._V1_SX300.jpg"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Godfather
+      </div>
+      <p
+        className="card-text"
+      >
+        N.N. Pillai, Mukesh, Kanaka, Philomina
+      </p>
+    </div>
+    <div
+      className="card-footer"
+    >
+      <button
+        className="btn btn-primary btn-block btn-lg"
+        disabled={false}
+        id="tt0353496"
+        onClick={[Function]}
+        type="button"
+      >
+        Book Now
+      </button>
+    </div>
+  </div>
+</div>
+`;
