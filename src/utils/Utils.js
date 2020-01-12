@@ -31,5 +31,5 @@ export const pushHistory = (newState) => {
   }
 
   export const getRequest = (param) => {
-      return axios.get(`http://www.omdbapi.com/?t=${param}&apikey=ffdb8d01`);
+      return axios.get(`https://www.omdbapi.com/?t=${param}&apikey=ffdb8d01`);
   }
